@@ -1,0 +1,14 @@
+Backup
+
+VIM: Git the .vim and .vimrc 
+R-Vim: Needs R, vimcom, Tmux, wmctrl, colorout, setwidth, ncurses-term
+Vim, R, Tmux, ncurses-term already packages for Ubuntu
+R
+Rstudio
+
+.bashrc
+.Rprofile
+.tmux.conf
+
+git
+perhaps may need to install vim from source
