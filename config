@@ -1,0 +1,7 @@
+Host merlot
+    HostName merlot.stat.uconn.edu
+    User vdeshpande
+Host cluster
+    HostName stats.phys.uconn.edu
+    User vdeshpande
+    ProxyCommand ssh -q merlot nc -q0 %h 22
